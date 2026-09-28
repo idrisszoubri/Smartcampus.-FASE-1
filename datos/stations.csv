@@ -1,0 +1,9 @@
+﻿station_id;name;lat;lon;zone
+S01;Acueducto - Azoguejo;40.94787;-4.11811;centro
+S02;Campus María Zambrano;40.94319;-4.11337;campus
+S03;Nueva Segovia;40.93073;-4.09784;residencial
+S04;Estación de Autobuses;40.94494;-4.12248;transporte
+S05;San Lorenzo;40.95443;-4.11283;residencial
+S06;La Albuera;40.94317;-4.10303;residencial
+S07;Plaza Mayor;40.9502;-4.12368;centro
+S08;Hospital General;40.94273;-4.12891;servicios

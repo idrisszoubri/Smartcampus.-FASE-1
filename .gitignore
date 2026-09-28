@@ -1,7 +1,21 @@
+# Scala / sbt
 target/
-.bloop/
-.metals/
-.bsp/
-.vscode/
 project/target/
+project/project/
+.scala-build/
+
+# Metals
+.metals/
+.bloop/
+.bsp/
+.metals.sbt
+
+# VS Code
+.vscode/
+
+# Archivos compilados
 *.class
+*.tasty
+
+# Logs
+*.log

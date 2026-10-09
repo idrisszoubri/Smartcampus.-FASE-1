@@ -1,6 +1,5 @@
 # Registro de IAG utilizada para consultar dudas.
 
-# AI_LOG
 
 ## Consulta 1
 
@@ -39,3 +38,29 @@ Uso: Consultamos cómo tratar el BOM de los ficheros CSV y por qué utilizábamo
 Código afectado: `Main.scala` y `Csv.scala`.
 
 Verificación: Ejecutamos el programa y comprobamos que la cabecera se mostraba correctamente, que las filas tenían el número de campos esperado y que no había filas con estructura incorrecta.
+
+
+## Consulta 4
+
+Fecha: 09/10/2026  
+
+Herramienta: ChatGPT  
+
+Uso: Diferencia entre `filter` y `map` y tipos intermedios de la consulta de S02.  
+
+Código afectado: `Main.scala`.  
+
+Verificación: Comprobamos el resultado con `sbt compile` y `sbt run`.
+
+
+## Consulta 5
+
+Fecha: 09/10/2026  
+
+Herramienta: ChatGPT  
+
+Uso: Cómo crear y utilizar `stationById` mediante un `Map`.  
+
+Código afectado: `Main.scala`.  
+
+Verificación: Comprobamos que S01 mostraba correctamente su nombre y número de viajes.

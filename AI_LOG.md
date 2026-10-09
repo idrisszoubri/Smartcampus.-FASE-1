@@ -42,7 +42,7 @@ Verificación: Ejecutamos el programa y comprobamos que la cabecera se mostraba 
 
 ## Consulta 4
 
-Fecha: 09/10/2026  
+Fecha: 06/10/2026  
 
 Herramienta: ChatGPT  
 

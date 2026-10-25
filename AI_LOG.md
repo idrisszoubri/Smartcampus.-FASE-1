@@ -64,3 +64,29 @@ Uso: Cómo crear y utilizar `stationById` mediante un `Map`.
 Código afectado: `Main.scala`.  
 
 Verificación: Comprobamos que S01 mostraba correctamente su nombre y número de viajes.
+
+
+## Consulta 6
+
+Fecha: 24/10/2026
+
+Herramienta: ChatGPT
+
+Uso: Cómo utilizar `groupBy` para agrupar datos y contar los elementos de cada grupo.
+
+Código afectado: `Queries.scala`.
+
+Verificación: Comprobamos que los viajes se agrupaban y contaban correctamente.
+
+
+## Consulta 7
+
+Fecha: 25/10/2026
+
+Herramienta: ChatGPT
+
+Uso: Cómo utilizar `Option` y `flatMap` para descartar conversiones numéricas incorrectas.
+
+Código afectado: `SafeParse.scala` y `Queries.scala`.
+
+Verificación: Comprobamos que solo se utilizaban las duraciones convertidas correctamente.
